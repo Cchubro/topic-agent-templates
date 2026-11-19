@@ -18,6 +18,6 @@
 
 ## 输入格式
 
-赛道：<一句话，如：中文小红书 × AI Agent × build in public>
+赛道：<一句话，如：X × Grok × build in public>
 关键词：<3–5 个，如：PR review、漏测、反向挑刺>
 真实素材：<回聊原话 / 实测数 / 翻车记录，逐条贴>
